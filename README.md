@@ -78,3 +78,7 @@ This project is licensed under the MIT License.
 - [Streamlit](https://streamlit.io/)
 - [Yahoo Finance API](https://pypi.org/project/yfinance/)
 - [OpenAI](https://openai.com/)
+
+
+testing changes 
+
